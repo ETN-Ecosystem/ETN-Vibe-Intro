@@ -1,5 +1,7 @@
 ### **Introducing ETN Vibe: A Foundational Platform for AI-Powered Development**
 
+https://etn-vibe.ethiotech.net.et
+
 ETN Vibe represents one of the first platforms to be released within the broader ETN Ecosystem. Currently available in a public beta, the platform is free to use for all users. While the ETN Ecosystem is founded on the principles of freedom and open-source technology, and maintaining this platform incurs significant operational costs, we are committed to providing initial access without charge.
 
 It is important to note that the project is not yet open-source. In the event of a future transition to an open-source model, certain core components, including proprietary prompting structures and specialized AI integration modules, will be excluded and will remain the intellectual property of the ETN Ecosystem.
