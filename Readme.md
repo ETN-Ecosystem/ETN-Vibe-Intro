@@ -1,3 +1,34 @@
+# ETN Vibe v1.1 - Release Notes
+
+## Domain Migration https://vibe.etnecosystem.org/
+
+We are thrilled to announce the release of **ETN Vibe v1.1**. This update brings significant improvements to user identity, payment flows, and project management, streamlining your experience from idea to execution.
+
+## 🚀 New Features & Enhancements
+
+### 🔐 Secured by ETN Identity
+We have fully integrated **ETN Identity**, the world's first Sovereign OIDC Protocol for the TON Blockchain.
+*   **Seamless Login**: Access the Vibe Wizard securely using your ETN Identity.
+*   **Sovereign Auth**: Experience a legally binding Web3 login that bridges the gap between chaotic anonymity and real-world certainty.
+*   **Unified Access**: One sovereign account for the entire ETN Ecosystem.
+
+### 💳 Enhanced Payment Experience
+*   **Smart Balance Check**: The payment system now performs an instant pre-flight check on your wallet balance.
+*   **Insufficient Funds Assistance**: If you're running low on ETN, a new interactive modal guides you with a direct link to **STON.fi** to top up immediately.
+*   **Real-Time Feedback**: Clearer status updates ("Checking", "Processing") during the transaction flow.
+
+### 🗂️ Dashboard & History
+*   **Project Library**: Your Dashboard now acts as a permanent library for your generated Vibes. Never lose a prompt or PRD again.
+*   **Payment History**: A transparent record of all your subscription purchases and credit top-ups is now available directly in your Dashboard.
+
+### 🎨 UI & Performance Polish
+*   **Mobile Responsiveness**: We've optimized the Results page and data tables for a flawless experience on mobile devices.
+*   **Stability Upgrades**: Fixed various state handling bugs to ensure buttons and modals work reliably every time.
+*   **Visual Refinements**: Updated branding and informational popups to better reflect our mission and ecosystem identity.
+
+---
+*Powered by the ETN Ecosystem & MaqdalaGPT. Proudly built in the FDRE 🇪🇹.*
+
 ### **Introducing ETN Vibe: A Foundational Platform for AI-Powered Development**
 
 https://etn-vibe.ethiotech.net.et
