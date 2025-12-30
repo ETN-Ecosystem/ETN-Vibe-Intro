@@ -1,4 +1,59 @@
+<!-- ETN Ecosystem Badges - Final Version with Links -->
+
+<!-- Main Project Information -->
+<p align="center">
+  <a href="https://etnecosystem.org/" target="_blank">
+    <img src="https://img.shields.io/badge/ETN%20Ecosystem-133A2A" alt="ETN Ecosystem"/>
+  </a>
+  <a href="https://ton.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Built%20on-TON-0088CC?logo=ton&logoColor=white" alt="Built on TON"/>
+  </a>
+  <a href="https://docs.etnecosystem.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20the-Docs-133A2A?logo=readthedocs&labelColor=FFB400" alt="Documentation"/>
+  </a>
+  <a href="http://etn-learn.ethio-tech.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ETN-Learn-133A2A?logo=gitbook&labelColor=FFB400" alt="ETN Learn"/>
+  </a>
+</p>
+
+<!-- Social & Community Links -->
+<p align="center">
+  <a href="https://x.com/etnetsa" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-X-133A2A?logo=x&labelColor=FFB400" alt="Follow on X"/>
+  </a>
+  <a href="https://www.youtube.com/@ETNetsaCoin?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-YouTube-133A2A?logo=youtube&labelColor=FFB400" alt="Subscribe on YouTube"/>
+  </a>
+  <a href="https://www.tiktok.com/@etneco" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-TikTok-133A2A?logo=tiktok&labelColor=FFB400" alt="Follow on TikTok"/>
+  </a>
+  <a href="https://t.me/et_apps" target="_blank">
+    <img src="https://img.shields.io/badge/Community-Chat-133A2A?logo=telegram&labelColor=FFB400" alt="Community Chat on Telegram"/>
+  </a>
+  <a href="https://t.me/etnetsacoin" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Announcements-133A2A?logo=telegram&labelColor=FFB400" alt="Announcements on Telegram"/>
+  </a>
+</p>
+
+<!-- TON Ecosystem & Financial Links -->
+<p align="center">
+  <a href="https://www.geckoterminal.com/ton/pools/EQBt7drPhWyQRIVnSkDzThhiVcq1lwPT371DYX-gGHzN9bwh" target="_blank">
+    <img src="https://img.shields.io/badge/Gecko-Terminal-133A2A?labelColor=FFB400" alt="GeckoTerminal Price Chart"/>
+  </a>
+  <a href="https://jvault.xyz/staking/v2/stake/ETN-ECO" target="_blank">
+    <img src="https://img.shields.io/badge/Stake%20on-jVault-133A2A?labelColor=FFB400" alt="Stake on jVault"/>
+  </a>
+  <a href="https://tonviewer.com/EQAz_XrD0hA4cqlprWkpS7TIAhCG4CknAfob1VQm-2mBf5Vl" target="_blank">
+    <img src="https://img.shields.io/badge/Jetton-Master-133A2A?logo=ton&logoColor=white&labelColor=FFB400" alt="Jetton Master on Tonviewer"/>
+  </a>
+  <a href="https://tonviewer.com/UQA7KhoTClG9QR7DwN1RGAkWIRU0dNp_R8F615y5PiEGQDEK" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20TON-UQA7...QDEK-133A2A?logo=ton&logoColor=white&labelColor=FFB400" alt="Donate TON"/>
+  </a>
+</p>
+
 # ETN Vibe v1.1 - Release Notes
+
+Platform Official Wallet UQDUMBs_UToaCtdwfqXVZBkIxtEmUiBF6xiS63PDEum_VIBE [https://tonviewer.com/UQDUMBs_UToaCtdwfqXVZBkIxtEmUiBF6xiS63PDEum_VIBE] 
 
 ## Domain Migration https://vibe.etnecosystem.org/
 
