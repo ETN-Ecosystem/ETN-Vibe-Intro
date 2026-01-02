@@ -1,6 +1,11 @@
-<!-- ETN Ecosystem Badges - Final Version with Links -->
+<div align="center">
+  <a href="https://vibe.etnecosystem.org/">
+    <img src="https://vibe.etnecosystem.org/_next/image?url=%2Fetn-vibe-logo.png&w=384&q=75" alt="ETN Vibe Logo" width="200" />
+  </a>
+  <h1>ETN Vibe | The Missing Link in Vibe Coding</h1>
+  <p><strong>Version 1.1.0</strong> | Released: <strong>January 1, 2026</strong></p>
+  <p><em>"You Bring the Vibe, We Bring the Code."</em></p>
 
-<!-- Main Project Information -->
 <p align="center">
   <a href="https://etnecosystem.org/" target="_blank">
     <img src="https://img.shields.io/badge/ETN%20Ecosystem-133A2A" alt="ETN Ecosystem"/>
@@ -16,7 +21,6 @@
   </a>
 </p>
 
-<!-- Social & Community Links -->
 <p align="center">
   <a href="https://x.com/etnetsa" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on-X-133A2A?logo=x&labelColor=FFB400" alt="Follow on X"/>
@@ -35,7 +39,6 @@
   </a>
 </p>
 
-<!-- TON Ecosystem & Financial Links -->
 <p align="center">
   <a href="https://www.geckoterminal.com/ton/pools/EQBt7drPhWyQRIVnSkDzThhiVcq1lwPT371DYX-gGHzN9bwh" target="_blank">
     <img src="https://img.shields.io/badge/Gecko-Terminal-133A2A?labelColor=FFB400" alt="GeckoTerminal Price Chart"/>
@@ -49,6 +52,66 @@
   <a href="https://tonviewer.com/UQA7KhoTClG9QR7DwN1RGAkWIRU0dNp_R8F615y5PiEGQDEK" target="_blank">
     <img src="https://img.shields.io/badge/Donate%20TON-UQA7...QDEK-133A2A?logo=ton&logoColor=white&labelColor=FFB400" alt="Donate TON"/>
   </a>
+</p>
+</div>
+
+---
+
+## 🚀 About ETN Vibe
+
+**ETN Vibe** is the premier "Vibe Coding" platform for the ETN Ecosystem. It bridges the gap between human ideas and AI execution by translating natural language concepts into developer-ready Product Requirements Documents (PRDs), expert prompts, and full-stack software blueprints.
+
+Built entirely on **Next.js 15** and the **TON Blockchain**, it allows users to pay for services using **ET Netsa Coin (ETN)** and seamlessly integrates with the broader ecosystem.
+
+## 🌟 New in Version 1.1.0
+
+Released on **January 1, 2026**, this major update focuses on security, sovereignty, and seamless identity management.
+
+### 🔐 ETN Identity Integration
+We have completely removed third-party dependencies (Logto) in favor of our self-hosted, sovereign identity solution.
+* **Powered by ETN Identity:** Secure, OAuth2-compliant authentication hosted directly within the ETN Ecosystem.
+* **Iron Session:** Custom, encrypted session management for maximum privacy and security.
+* **Unified Login:** One account for ETN Vibe, ETN Learn, and future ecosystem dApps.
+
+<div align="center">
+  <img src="https://account.etnecosystem.org/etn_ident_darkmode_logo.png" alt="ETN Identity Logo" width="150"/>
+  <p><em>Secure. Sovereign. ETN Identity.</em></p>
+</div>
+
+### 🛠️ Core Features Added
+* **Canonical URL Update:** The application is now permanently hosted at `https://vibe.etnecosystem.org/`.
+* **Security Hardening:** Patched critical CVEs in Next.js 15 (RCE protection) and implemented strict Middleware route protection.
+* **Hydration Fixes:** Resolved persistent browser extension conflicts for a smoother UI experience.
+* **TON Payments:** Native support for ETN Jetton payments via TON Connect.
+
+## 🏗️ Tech Stack
+
+* **Framework:** Next.js 15 (App Router)
+* **Language:** TypeScript
+* **AI Engine:** MaqdalaGPT
+* **Blockchain:** TON (The Open Network)
+* **Styling:** Tailwind CSS + Shadcn/UI
+* **Authentication:** ETN Identity (Custom OAuth + Iron Session)
+* **Database/Backend:** Postgres + Blockchain
+
+## 📦 Installation & Setup
+
+This project is **closed source** and proprietary to the ETN Ecosystem.
+
+### Prerequisites
+* Node.js 20+
+
+
+## 📜 License
+
+**UNLICENSED**
+Copyright © 2026 ETN Ecosystem. All rights reserved.
+Authored by **Jason Peters (JP)**.
+
+---
+
+<p align="center">
+Built with ❤️ for the <strong>ETN Community</strong>.
 </p>
 
 # ETN Vibe v1.1 - Release Notes
